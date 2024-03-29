@@ -1,0 +1,5 @@
+package pkg1.cric;
+import org.springframework.data.jpa.repository.JpaRepository;
+public interface Cric1Repo extends JpaRepository<Cric1Entity, Integer>{
+
+}

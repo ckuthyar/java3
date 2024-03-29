@@ -1,0 +1,11 @@
+package pkg1.cric;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.GetMapping;
+@RestController
+public class Cric1Controller {
+	@GetMapping("/cric/loadData")
+	public static String loadData() {
+		return "Success";
+	}
+
+}

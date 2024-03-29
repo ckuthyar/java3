@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+D:\Backup\3-SangamOne\2023\Coding\Java2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+728380452.index
+2046765485.index
+738717757.index
+3037634951.index
+3255406865.index
+1550648498.index
+1526775979.index
+2026834520.index
+472971777.index
+1500805843.index
+1481987500.index

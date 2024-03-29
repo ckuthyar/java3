@@ -1,0 +1,14 @@
+Student1,bus1,0810,tiger circle
+student2,bus2,0815,MGM College
+student3,bus3
+student4,bus4
+student5,bus1
+student6,bus2
+student7,bus3
+student8,bus4
+student9,bus1       ,
+student10,bus2
+staff1
+staff2
+staff3
+staff4

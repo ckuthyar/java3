@@ -1,0 +1,5 @@
+spring.application.name=REST7
+spring.datasource.url:jdbc:mysql://localhost:3306/4mw20cs
+spring.datasoure.username:root
+spring.datasource.password:root
+spring.jpa.hibernate.ddl-auto=create
